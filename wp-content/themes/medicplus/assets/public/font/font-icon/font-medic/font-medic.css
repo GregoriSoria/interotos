@@ -1,0 +1,1143 @@
+@font-face {
+  font-family: 'medic-font';
+  src:  url('fonts/medic-font.eot?hc30tj');
+  src:  url('fonts/medic-font.eot?hc30tj#iefix') format('embedded-opentype'),
+    url('fonts/medic-font.ttf?hc30tj') format('truetype'),
+    url('fonts/medic-font.woff?hc30tj') format('woff'),
+    url('fonts/medic-font.svg?hc30tj#medic-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'medic-font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-spa:before {
+  content: "\ea10";
+}
+.icon-spa-aromatherapy:before {
+  content: "\ea11";
+}
+.icon-spa-bamboo-sticks:before {
+  content: "\ea12";
+}
+.icon-spa-baseball:before {
+  content: "\ea13";
+}
+.icon-spa-bath:before {
+  content: "\ea14";
+}
+.icon-spa-bath-1:before {
+  content: "\ea15";
+}
+.icon-spa-bathing:before {
+  content: "\ea16";
+}
+.icon-spa-bathrobe:before {
+  content: "\ea17";
+}
+.icon-spa-beauty:before {
+  content: "\ea18";
+}
+.icon-spa-bicycle:before {
+  content: "\ea19";
+}
+.icon-spa-body-treatments:before {
+  content: "\ea1a";
+}
+.icon-spa-breath-control:before {
+  content: "\ea1b";
+}
+.icon-spa-calendar:before {
+  content: "\ea1c";
+}
+.icon-spa-capsule:before {
+  content: "\ea1d";
+}
+.icon-spa-chair-treatments:before {
+  content: "\ea1e";
+}
+.icon-spa-count-calories:before {
+  content: "\ea1f";
+}
+.icon-spa-dancer:before {
+  content: "\ea20";
+}
+.icon-spa-diet:before {
+  content: "\ea21";
+}
+.icon-spa-drink-water:before {
+  content: "\ea22";
+}
+.icon-spa-effect:before {
+  content: "\ea23";
+}
+.icon-spa-emotional:before {
+  content: "\ea24";
+}
+.icon-spa-environmental:before {
+  content: "\ea25";
+}
+.icon-spa-exercise:before {
+  content: "\ea26";
+}
+.icon-spa-exercising:before {
+  content: "\ea27";
+}
+.icon-spa-extreme-sports:before {
+  content: "\ea28";
+}
+.icon-spa-face-mask:before {
+  content: "\ea29";
+}
+.icon-spa-face-treatments:before {
+  content: "\ea2a";
+}
+.icon-spa-feel-free:before {
+  content: "\ea2b";
+}
+.icon-spa-fitness:before {
+  content: "\ea2c";
+}
+.icon-spa-flower:before {
+  content: "\ea2d";
+}
+.icon-spa-foot-bath:before {
+  content: "\ea2e";
+}
+.icon-spa-fresh-smoothie:before {
+  content: "\ea2f";
+}
+.icon-spa-full-energy:before {
+  content: "\ea30";
+}
+.icon-spa-groceries:before {
+  content: "\ea31";
+}
+.icon-spa-gym:before {
+  content: "\ea32";
+}
+.icon-spa-hand-care:before {
+  content: "\ea33";
+}
+.icon-spa-harmony:before {
+  content: "\ea34";
+}
+.icon-spa-healthy-nutrition:before {
+  content: "\ea35";
+}
+.icon-spa-healthy-shakes:before {
+  content: "\ea36";
+}
+.icon-spa-heart:before {
+  content: "\ea37";
+}
+.icon-spa-hot-herbal:before {
+  content: "\ea38";
+}
+.icon-spa-jumping:before {
+  content: "\ea39";
+}
+.icon-spa-ladder:before {
+  content: "\ea3a";
+}
+.icon-spa-lightness:before {
+  content: "\ea3b";
+}
+.icon-spa-lotus:before {
+  content: "\ea3c";
+}
+.icon-spa-love-yourself:before {
+  content: "\ea3d";
+}
+.icon-spa-man:before {
+  content: "\ea3e";
+}
+.icon-spa-mask:before {
+  content: "\ea3f";
+}
+.icon-spa-massage:before {
+  content: "\ea40";
+}
+.icon-spa-massage-oil:before {
+  content: "\ea41";
+}
+.icon-spa-meditation:before {
+  content: "\ea42";
+}
+.icon-spa-meditation-1:before {
+  content: "\ea43";
+}
+.icon-spa-meditation-2:before {
+  content: "\ea44";
+}
+.icon-spa-meditation-3:before {
+  content: "\ea45";
+}
+.icon-spa-meditation-4:before {
+  content: "\ea46";
+}
+.icon-spa-music:before {
+  content: "\ea47";
+}
+.icon-spa-natural-energy:before {
+  content: "\ea48";
+}
+.icon-spa-no-alcohol:before {
+  content: "\ea49";
+}
+.icon-spa-no-fastfood:before {
+  content: "\ea4a";
+}
+.icon-spa-no-smoking:before {
+  content: "\ea4b";
+}
+.icon-spa-nutrionist:before {
+  content: "\ea4c";
+}
+.icon-spa-occupation:before {
+  content: "\ea4d";
+}
+.icon-spa-organic-food:before {
+  content: "\ea4e";
+}
+.icon-spa-pool:before {
+  content: "\ea4f";
+}
+.icon-spa-reading:before {
+  content: "\ea50";
+}
+.icon-spa-relaxing:before {
+  content: "\ea51";
+}
+.icon-spa-room:before {
+  content: "\ea52";
+}
+.icon-spa-running:before {
+  content: "\ea53";
+}
+.icon-spa-salon:before {
+  content: "\ea54";
+}
+.icon-spa-sauna:before {
+  content: "\ea55";
+}
+.icon-spa-sauna-1:before {
+  content: "\ea56";
+}
+.icon-spa-schedule:before {
+  content: "\ea57";
+}
+.icon-spa-shower:before {
+  content: "\ea58";
+}
+.icon-spa-skincare:before {
+  content: "\ea59";
+}
+.icon-spa-social:before {
+  content: "\ea5a";
+}
+.icon-spa-solarium:before {
+  content: "\ea5b";
+}
+.icon-spa-spiritual:before {
+  content: "\ea5c";
+}
+.icon-spa-stick-man:before {
+  content: "\ea5d";
+}
+.icon-spa-stone-massage:before {
+  content: "\ea5e";
+}
+.icon-spa-strong:before {
+  content: "\ea5f";
+}
+.icon-spa-sunbath:before {
+  content: "\ea60";
+}
+.icon-spa-surfing:before {
+  content: "\ea61";
+}
+.icon-spa-swimming:before {
+  content: "\ea62";
+}
+.icon-spa-table-treatments:before {
+  content: "\ea63";
+}
+.icon-spa-tea-ceremony:before {
+  content: "\ea64";
+}
+.icon-spa-tools:before {
+  content: "\ea65";
+}
+.icon-spa-towel:before {
+  content: "\ea66";
+}
+.icon-spa-training:before {
+  content: "\ea67";
+}
+.icon-spa-treatments:before {
+  content: "\ea68";
+}
+.icon-spa-treatment-specialist:before {
+  content: "\ea69";
+}
+.icon-spa-t-shirt:before {
+  content: "\ea6a";
+}
+.icon-spa-vitamins:before {
+  content: "\ea6b";
+}
+.icon-spa-walking:before {
+  content: "\ea6c";
+}
+.icon-spa-weightlifting:before {
+  content: "\ea6d";
+}
+.icon-spa-weight-loss:before {
+  content: "\ea6e";
+}
+.icon-spa-wellness-center:before {
+  content: "\ea6f";
+}
+.icon-spa-wellness-coach:before {
+  content: "\ea70";
+}
+.icon-spa-wellness-group:before {
+  content: "\ea71";
+}
+.icon-spa-wellness-tourism:before {
+  content: "\ea72";
+}
+.icon-spa-yoga:before {
+  content: "\ea73";
+}
+.icon-orthopedic1:before {
+  content: "\ea08";
+}
+.icon-orthopedic2:before {
+  content: "\ea09";
+}
+.icon-orthopedic3:before {
+  content: "\ea0a";
+}
+.icon-orthopedic4:before {
+  content: "\ea0b";
+}
+.icon-orthopedic5:before {
+  content: "\ea0c";
+}
+.icon-orthopedic6:before {
+  content: "\ea0d";
+}
+.icon-orthopedic7:before {
+  content: "\ea0e";
+}
+.icon-orthopedic8:before {
+  content: "\ea0f";
+}
+.icon-fast-food:before {
+  content: "\ea06";
+}
+.icon-moon-night:before {
+  content: "\ea07";
+}
+.icon-prenancy1:before {
+  content: "\ea05";
+}
+.icon-close-bracket:before {
+  content: "\ea04";
+}
+.icon-Dental1:before {
+  content: "\ea00";
+}
+.icon-Dental2:before {
+  content: "\ea01";
+}
+.icon-Dental3:before {
+  content: "\ea02";
+}
+.icon-Dental4:before {
+  content: "\ea03";
+}
+.icon-vet-clinic1:before {
+  content: "\e9fc";
+}
+.icon-vet-clinic2:before {
+  content: "\e9fd";
+}
+.icon-vet-clinic3:before {
+  content: "\e9fe";
+}
+.icon-vet-clinic4:before {
+  content: "\e9ff";
+}
+.icon-dermatology1:before {
+  content: "\e9f8";
+}
+.icon-dermatology2:before {
+  content: "\e9f9";
+}
+.icon-dermatology3:before {
+  content: "\e9fa";
+}
+.icon-dermatology4:before {
+  content: "\e9fb";
+}
+.icon-hmail:before {
+  content: "\e9f6";
+}
+.icon-hphone:before {
+  content: "\e9f7";
+}
+.icon-ambulance1:before {
+  content: "\e9f5";
+}
+.icon-ambulance:before {
+  content: "\e900";
+}
+.icon-aspirins:before {
+  content: "\e901";
+}
+.icon-atom:before {
+  content: "\e902";
+}
+.icon-awareness-ribbon:before {
+  content: "\e903";
+}
+.icon-baby-face:before {
+  content: "\e904";
+}
+.icon-bandage-cross:before {
+  content: "\e905";
+}
+.icon-bathroom-scales:before {
+  content: "\e906";
+}
+.icon-biohazard:before {
+  content: "\e907";
+}
+.icon-biology-shape:before {
+  content: "\e908";
+}
+.icon-blood-analysis:before {
+  content: "\e909";
+}
+.icon-blood-cell:before {
+  content: "\e90a";
+}
+.icon-blood-drop:before {
+  content: "\e90b";
+}
+.icon-blood-pressure-tool:before {
+  content: "\e90c";
+}
+.icon-blood-sample:before {
+  content: "\e90d";
+}
+.icon-blood-transfusion:before {
+  content: "\e90e";
+}
+.icon-brain-bald-head:before {
+  content: "\e90f";
+}
+.icon-broken-bone:before {
+  content: "\e910";
+}
+.icon-broken-feet-bandage:before {
+  content: "\e911";
+}
+.icon-brush-tooth-paste:before {
+  content: "\e912";
+}
+.icon-caduceus:before {
+  content: "\e913";
+}
+.icon-caduceus-cane-wings:before {
+  content: "\e914";
+}
+.icon-cells-circle:before {
+  content: "\e915";
+}
+.icon-chemistry-flask-liquid:before {
+  content: "\e916";
+}
+.icon-crutch:before {
+  content: "\e917";
+}
+.icon-crutches-couple:before {
+  content: "\e918";
+}
+.icon-dentist-tool:before {
+  content: "\e919";
+}
+.icon-dna-sequence:before {
+  content: "\e91a";
+}
+.icon-dosage-medical-tool:before {
+  content: "\e91b";
+}
+.icon-drip-bag:before {
+  content: "\e91c";
+}
+.icon-drop-hospital:before {
+  content: "\e91d";
+}
+.icon-drug-pills:before {
+  content: "\e91e";
+}
+.icon-drugs-capsules-pills:before {
+  content: "\e91f";
+}
+.icon-electrocardiogram-screen:before {
+  content: "\e920";
+}
+.icon-emergency-light:before {
+  content: "\e921";
+}
+.icon-esophagus:before {
+  content: "\e922";
+}
+.icon-eye-closeup:before {
+  content: "\e923";
+}
+.icon-eye-scanner-medical:before {
+  content: "\e924";
+}
+.icon-family-heterosexual:before {
+  content: "\e925";
+}
+.icon-female-body:before {
+  content: "\e926";
+}
+.icon-female-sign:before {
+  content: "\e927";
+}
+.icon-first-aid-kit:before {
+  content: "\e928";
+}
+.icon-first-aid-kit-1:before {
+  content: "\e929";
+}
+.icon-glasses:before {
+  content: "\e92a";
+}
+.icon-handicap:before {
+  content: "\e92b";
+}
+.icon-head-with-brain:before {
+  content: "\e92c";
+}
+.icon-health-crutches:before {
+  content: "\e92d";
+}
+.icon-health-drip:before {
+  content: "\e92e";
+}
+.icon-health-thermometer:before {
+  content: "\e92f";
+}
+.icon-heart-beats-lifeline:before {
+  content: "\e930";
+}
+.icon-heart-black-shape:before {
+  content: "\e931";
+}
+.icon-heart-organ:before {
+  content: "\e932";
+}
+.icon-heart-rate-monitor:before {
+  content: "\e933";
+}
+.icon-heart-electrocardiogram:before {
+  content: "\e934";
+}
+.icon-hospital-bed:before {
+  content: "\e935";
+}
+.icon-bed-silhouette-view:before {
+  content: "\e936";
+}
+.icon-hospital-building:before {
+  content: "\e937";
+}
+.icon-hospital-building-front:before {
+  content: "\e938";
+}
+.icon-hospital-drip-bag:before {
+  content: "\e939";
+}
+.icon-letter-sign-rounded:before {
+  content: "\e93a";
+}
+.icon-hospital-medical-signal-circle:before {
+  content: "\e93b";
+}
+.icon-hospital-placeholder:before {
+  content: "\e93c";
+}
+.icon-hospital-symbol:before {
+  content: "\e93d";
+}
+.icon-hospital-syringe:before {
+  content: "\e93e";
+}
+.icon-human-brain:before {
+  content: "\e93f";
+}
+.icon-human-ear-shape:before {
+  content: "\e940";
+}
+.icon-human-eye-shape:before {
+  content: "\e941";
+}
+.icon-human-feet-shape:before {
+  content: "\e942";
+}
+.icon-human-skull:before {
+  content: "\e943";
+}
+.icon-hurted-finger-bandage:before {
+  content: "\e944";
+}
+.icon-illness-on-bed:before {
+  content: "\e945";
+}
+.icon-lab-microscope:before {
+  content: "\e946";
+}
+.icon-lifeline-heartbeats-clipboard:before {
+  content: "\e947";
+}
+.icon-lungs-organ:before {
+  content: "\e948";
+}
+.icon-lungs-silhouette:before {
+  content: "\e949";
+}
+.icon-male-female-symbols:before {
+  content: "\e94a";
+}
+.icon-male-gender-sign:before {
+  content: "\e94b";
+}
+.icon-medical-chain-symbol-of-dna:before {
+  content: "\e94c";
+}
+.icon-medical-chopper-transport:before {
+  content: "\e94d";
+}
+.icon-medical-circular-glasses:before {
+  content: "\e94e";
+}
+.icon-medical-doctor-specialist:before {
+  content: "\e94f";
+}
+.icon-medical-hammer-tool:before {
+  content: "\e950";
+}
+.icon-medical-heart-scan:before {
+  content: "\e951";
+}
+.icon-medical-notes-clipboard:before {
+  content: "\e952";
+}
+.icon-medical-pill:before {
+  content: "\e953";
+}
+.icon-medical-results-folders:before {
+  content: "\e954";
+}
+.icon-medical-samples-tubes:before {
+  content: "\e955";
+}
+.icon-talk-speech-bubble:before {
+  content: "\e956";
+}
+.icon-temperature-control-tool:before {
+  content: "\e957";
+}
+.icon-medicine-capsules:before {
+  content: "\e958";
+}
+.icon-medicines-bowl:before {
+  content: "\e959";
+}
+.icon-bottle-drops-dosage:before {
+  content: "\e95a";
+}
+.icon-men-silhouette:before {
+  content: "\e95b";
+}
+.icon-microscope-tool:before {
+  content: "\e95c";
+}
+.icon-molar:before {
+  content: "\e95d";
+}
+.icon-mother-baby-arms:before {
+  content: "\e95e";
+}
+.icon-mouth-bald-head:before {
+  content: "\e95f";
+}
+.icon-negative-sign-clipboard:before {
+  content: "\e960";
+}
+.icon-no-smoking-sign:before {
+  content: "\e961";
+}
+.icon-nurse:before {
+  content: "\e962";
+}
+.icon-nurse-1:before {
+  content: "\e963";
+}
+.icon-nurse-silhouette:before {
+  content: "\e964";
+}
+.icon-opened-medical-scissors:before {
+  content: "\e965";
+}
+.icon-oxygen:before {
+  content: "\e966";
+}
+.icon-person-broken-arm:before {
+  content: "\e967";
+}
+.icon-pharmacy-icon:before {
+  content: "\e968";
+}
+.icon-pharmacy-shopping-cart:before {
+  content: "\e969";
+}
+.icon-pharmacy-symbol:before {
+  content: "\e96a";
+}
+.icon-pharmacy-tool:before {
+  content: "\e96b";
+}
+.icon-phonendoscope:before {
+  content: "\e96c";
+}
+.icon-pills-bottle:before {
+  content: "\e96d";
+}
+.icon-poison-bottle-skull:before {
+  content: "\e96e";
+}
+.icon-positive-verified:before {
+  content: "\e96f";
+}
+.icon-pregnancy:before {
+  content: "\e970";
+}
+.icon-pulse-line:before {
+  content: "\e971";
+}
+.icon-rolled-paper-bathroom:before {
+  content: "\e972";
+}
+.icon-rubbish-bin:before {
+  content: "\e973";
+}
+.icon-scale-balanced-tool:before {
+  content: "\e974";
+}
+.icon-scale-tool-body-weight:before {
+  content: "\e975";
+}
+.icon-scalpel:before {
+  content: "\e976";
+}
+.icon-scalpel-knife-surgery:before {
+  content: "\e977";
+}
+.icon-screw:before {
+  content: "\e978";
+}
+.icon-silhouette-wheelchair:before {
+  content: "\e979";
+}
+.icon-skull-crossbones:before {
+  content: "\e97a";
+}
+.icon-sperm:before {
+  content: "\e97b";
+}
+.icon-star-of-life:before {
+  content: "\e97c";
+}
+.icon-stethoscope-heart-beats:before {
+  content: "\e97d";
+}
+.icon-sticking-plaster:before {
+  content: "\e97e";
+}
+.icon-stomach:before {
+  content: "\e97f";
+}
+.icon-stomach-shape:before {
+  content: "\e980";
+}
+.icon-symbolic-cancer-ribbon:before {
+  content: "\e981";
+}
+.icon-syringe-medicine:before {
+  content: "\e982";
+}
+.icon-syrup-medicine-bottle:before {
+  content: "\e983";
+}
+.icon-tag-cross:before {
+  content: "\e984";
+}
+.icon-teeth-silhouette:before {
+  content: "\e985";
+}
+.icon-test-tubes:before {
+  content: "\e986";
+}
+.icon-thermometer-fever-temperature:before {
+  content: "\e987";
+}
+.icon-three-hexagons-cell:before {
+  content: "\e988";
+}
+.icon-toxic-sign:before {
+  content: "\e989";
+}
+.icon-toxic-symbol:before {
+  content: "\e98a";
+}
+.icon-two-color-pill:before {
+  content: "\e98b";
+}
+.icon-unhealthy-condition:before {
+  content: "\e98c";
+}
+.icon-united-heterosexual:before {
+  content: "\e98d";
+}
+.icon-water-glass:before {
+  content: "\e98e";
+}
+.icon-weight-silhouette-practice:before {
+  content: "\e98f";
+}
+.icon-women-silhouette:before {
+  content: "\e990";
+}
+.icon-x-ray-bones:before {
+  content: "\e991";
+}
+.icon-baby-diaper:before {
+  content: "\e992";
+}
+.icon-baby-diaper-1:before {
+  content: "\e993";
+}
+.icon-baby-diaper-2:before {
+  content: "\e994";
+}
+.icon-baby-bottle-handles:before {
+  content: "\e995";
+}
+.icon-baby-duck-toy:before {
+  content: "\e996";
+}
+.icon-baby-dummy-bear-head:before {
+  content: "\e997";
+}
+.icon-baby-face-crying:before {
+  content: "\e998";
+}
+.icon-flash-cards-image:before {
+  content: "\e999";
+}
+.icon-baby-footprints:before {
+  content: "\e99a";
+}
+.icon-baby-girl-outline:before {
+  content: "\e99b";
+}
+.icon-baby-hat:before {
+  content: "\e99c";
+}
+.icon-baby-head-pacifier:before {
+  content: "\e99d";
+}
+.icon-baby-head-heart:before {
+  content: "\e99e";
+}
+.icon-baby-male-face:before {
+  content: "\e99f";
+}
+.icon-baby-mobile-toy:before {
+  content: "\e9a0";
+}
+.icon-baby-onesie:before {
+  content: "\e9a1";
+}
+.icon-baby-onesie-smiling:before {
+  content: "\e9a2";
+}
+.icon-baby-onesie-pocket:before {
+  content: "\e9a3";
+}
+.icon-baby:before {
+  content: "\e9a4";
+}
+.icon-baby-pacifier:before {
+  content: "\e9a5";
+}
+.icon-baby-pot-spoon:before {
+  content: "\e9a6";
+}
+.icon-baby-rattle:before {
+  content: "\e9a7";
+}
+.icon-baby-rattle-1:before {
+  content: "\e9a8";
+}
+.icon-baby-rattle-flower:before {
+  content: "\e9a9";
+}
+.icon-baby-ring-tower:before {
+  content: "\e9aa";
+}
+.icon-baby-box-toy:before {
+  content: "\e9ab";
+}
+.icon-baby-shoes:before {
+  content: "\e9ac";
+}
+.icon-baby-standing-pants:before {
+  content: "\e9ad";
+}
+.icon-baby-stroller:before {
+  content: "\e9ae";
+}
+.icon-baby-stroller-rounded:before {
+  content: "\e9af";
+}
+.icon-baby-stroller-side-view:before {
+  content: "\e9b0";
+}
+.icon-baby-transport-side-view:before {
+  content: "\e9b1";
+}
+.icon-baby-walker:before {
+  content: "\e9b2";
+}
+.icon-baby-wearing-diaper:before {
+  content: "\e9b3";
+}
+.icon-baby-pacifier-sign:before {
+  content: "\e9b4";
+}
+.icon-baby-wrapped-swaddle:before {
+  content: "\e9b5";
+}
+.icon-balloons-couple:before {
+  content: "\e9b6";
+}
+.icon-bear-face:before {
+  content: "\e9b7";
+}
+.icon-bear-rattle:before {
+  content: "\e9b8";
+}
+.icon-bear-toy:before {
+  content: "\e9b9";
+}
+.icon-car-baby-toy:before {
+  content: "\e9ba";
+}
+.icon-circular-button:before {
+  content: "\e9bb";
+}
+.icon-crayon:before {
+  content: "\e9bc";
+}
+.icon-cup-spoon-inside:before {
+  content: "\e9bd";
+}
+.icon-diaper-heart-safety-pin:before {
+  content: "\e9be";
+}
+.icon-divider-outline:before {
+  content: "\e9bf";
+}
+.icon-duck-side-view:before {
+  content: "\e9c0";
+}
+.icon-female-baby-face:before {
+  content: "\e9c1";
+}
+.icon-female-baby-head:before {
+  content: "\e9c2";
+}
+.icon-flower-smile:before {
+  content: "\e9c3";
+}
+.icon-fork-knife-plate:before {
+  content: "\e9c4";
+}
+.icon-air-balloon-toy:before {
+  content: "\e9c5";
+}
+.icon-moon-stars:before {
+  content: "\e9c6";
+}
+.icon-number-blocks-toys:before {
+  content: "\e9c7";
+}
+.icon-pacifier-babies:before {
+  content: "\e9c8";
+}
+.icon-pregnant-woman:before {
+  content: "\e9c9";
+}
+.icon-rainbow:before {
+  content: "\e9ca";
+}
+.icon-rattle-for-babies:before {
+  content: "\e9cb";
+}
+.icon-rattle-for-babies-1:before {
+  content: "\e9cc";
+}
+.icon-rattle-star:before {
+  content: "\e9cd";
+}
+.icon-sad-baby-face:before {
+  content: "\e9ce";
+}
+.icon-security-pin-opened:before {
+  content: "\e9cf";
+}
+.icon-skate-handle:before {
+  content: "\e9d0";
+}
+.icon-sleeping-baby:before {
+  content: "\e9d1";
+}
+.icon-smiling-sun:before {
+  content: "\e9d2";
+}
+.icon-sock-side-view:before {
+  content: "\e9d3";
+}
+.icon-square-blocks:before {
+  content: "\e9d4";
+}
+.icon-stork-carrying-bag:before {
+  content: "\e9d5";
+}
+.icon-tool-listen-baby:before {
+  content: "\e9d6";
+}
+.icon-toy-ball:before {
+  content: "\e9d7";
+}
+.icon-toy-car-outline:before {
+  content: "\e9d8";
+}
+.icon-horse-rocking-chair:before {
+  content: "\e9d9";
+}
+.icon-truck-side-view:before {
+  content: "\e9da";
+}
+.icon-two-pieces-puzzle:before {
+  content: "\e9db";
+}
+.icon-baby-bib-heart:before {
+  content: "\e9dc";
+}
+.icon-abc-squares:before {
+  content: "\e9dd";
+}
+.icon-baby-abacus-toy:before {
+  content: "\e9de";
+}
+.icon-baby-abc-cubes:before {
+  content: "\e9df";
+}
+.icon-baby-bag-flower:before {
+  content: "\e9e0";
+}
+.icon-baby-ball-toy:before {
+  content: "\e9e1";
+}
+.icon-baby-bath-balls:before {
+  content: "\e9e2";
+}
+.icon-baby-bear-toy:before {
+  content: "\e9e3";
+}
+.icon-baby-bed:before {
+  content: "\e9e4";
+}
+.icon-baby-bed-mobile-toy:before {
+  content: "\e9e5";
+}
+.icon-baby-bib-cloth:before {
+  content: "\e9e6";
+}
+.icon-baby-bib-flower:before {
+  content: "\e9e7";
+}
+.icon-baby-bib-fish:before {
+  content: "\e9e8";
+}
+.icon-baby-bib-animal-head:before {
+  content: "\e9e9";
+}
+.icon-baby-bib-soccer-ball:before {
+  content: "\e9ea";
+}
+.icon-baby-bib-heart-outline:before {
+  content: "\e9eb";
+}
+.icon-bike-training-wheels:before {
+  content: "\e9ec";
+}
+.icon-baby-bottle-outline:before {
+  content: "\e9ed";
+}
+.icon-baby-bottle-outline-1:before {
+  content: "\e9ee";
+}
+.icon-baby-bottle-heart:before {
+  content: "\e9ef";
+}
+.icon-baby-bottle-face:before {
+  content: "\e9f0";
+}
+.icon-baby-chair:before {
+  content: "\e9f1";
+}
+.icon-baby-cloth-rabbit-head:before {
+  content: "\e9f2";
+}
+.icon-baby-cream-outline:before {
+  content: "\e9f3";
+}
+.icon-baby-crib-mobile:before {
+  content: "\e9f4";
+}
+

@@ -1,0 +1,2274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-07-30 08:59+0700\n"
+"PO-Revision-Date: 2016-05-31 14:23+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_html_x;_n:1,2;"
+"_n_noop:1,2;_nx_noop:1,2;esc_attr__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "404"
+msgstr ""
+
+msgid "Section via hook"
+msgstr ""
+
+msgid ""
+"This is a section created by adding a filter to the sections array. Can be "
+"used by child themes to add/remove sections from the options."
+msgstr ""
+
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+msgid "Current theme preview"
+msgstr ""
+
+msgid "By %s"
+msgstr ""
+
+msgid "Version %s"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+msgid "Widget"
+msgstr ""
+
+msgid "Menus"
+msgstr ""
+
+msgid "Icon Page"
+msgstr ""
+
+msgid "Font-Awesome"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Layout display"
+msgstr ""
+
+msgid "Choose type of layout"
+msgstr ""
+
+msgid "This option will change layout for all page of theme."
+msgstr ""
+
+msgid "Fluid"
+msgstr ""
+
+msgid "Boxed"
+msgstr ""
+
+msgid "Palette Color Option"
+msgstr ""
+
+msgid "Choose color of theme"
+msgstr ""
+
+msgid "This option will change color for all page of theme"
+msgstr ""
+
+msgid "Body Background"
+msgstr ""
+
+msgid "Header Logo"
+msgstr ""
+
+msgid "Choose logo image"
+msgstr ""
+
+msgid "Header Sticky Enable"
+msgstr ""
+
+msgid "Enable or disable fixed header when scroll"
+msgstr ""
+
+msgid "Back To Top Button"
+msgstr ""
+
+msgid "Setting for back to top button"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Back To Top Button Color"
+msgstr ""
+
+msgid "Map google API Key"
+msgstr ""
+
+msgid ""
+"This key is used to run a some feature of Map.Please refer document to "
+"create a key"
+msgstr ""
+
+msgid "Social"
+msgstr ""
+
+msgid ""
+"These information will be used for content in <strong>Header</strong> & "
+"<strong>Footer</strong>"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Googleplus"
+msgstr ""
+
+msgid "Pinterest"
+msgstr ""
+
+msgid "Instagram"
+msgstr ""
+
+msgid "Dribbble"
+msgstr ""
+
+msgid "Social Share Link"
+msgstr ""
+
+msgid "These information will be used in blog."
+msgstr ""
+
+msgid "LinkedIn"
+msgstr ""
+
+msgid "Digg"
+msgstr ""
+
+msgid "Google Plus"
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "This section will change setting for header"
+msgstr ""
+
+msgid "Header Style"
+msgstr ""
+
+msgid "Configuration Header Style : Logo and Menu"
+msgstr ""
+
+msgid "Style 1"
+msgstr ""
+
+msgid "Style 2"
+msgstr ""
+
+msgid "Style 3"
+msgstr ""
+
+msgid "Style 4"
+msgstr ""
+
+msgid "Style 5"
+msgstr ""
+
+msgid "Style 6"
+msgstr ""
+
+msgid "Style 7"
+msgstr ""
+
+msgid "Style 8"
+msgstr ""
+
+msgid "Style 9"
+msgstr ""
+
+msgid "Style 10"
+msgstr ""
+
+msgid "Style 11"
+msgstr ""
+
+msgid "Style 12"
+msgstr ""
+
+msgid "Style 13"
+msgstr ""
+
+msgid "Style 14"
+msgstr ""
+
+msgid "Style 15"
+msgstr ""
+
+msgid "Make Appointment Text"
+msgstr ""
+
+msgid "Select Page"
+msgstr ""
+
+msgid "Search On Header"
+msgstr ""
+
+msgid "Search Style"
+msgstr ""
+
+msgid "Not apply for header 03,04,05,06"
+msgstr ""
+
+msgid "Top Bar Left Content"
+msgstr ""
+
+msgid "Configure detailed information for each content in header"
+msgstr ""
+
+msgid "Ticker"
+msgstr ""
+
+msgid "Ticker Content"
+msgstr ""
+
+msgid "Top Bar Right Content"
+msgstr ""
+
+msgid "Contact Infomation"
+msgstr ""
+
+msgid ""
+"Please use format: icon / Content.<br>Ex: [\"fa fa-phone\",\"84 909 015 "
+"345\"]"
+msgstr ""
+
+msgid "Icon Color"
+msgstr ""
+
+msgid "Setting color for icon of contact information"
+msgstr ""
+
+msgid "Social list"
+msgstr ""
+
+msgid ""
+"Only apply for header three.Please go on \"Social\" menu to enter social link"
+msgstr ""
+
+msgid "Google plus"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Configuration for main navigation on top"
+msgstr ""
+
+msgid "Main Menu Setting"
+msgstr ""
+
+msgid "Configuration for Main Menu"
+msgstr ""
+
+msgid "Main Menu Custom"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Menu Item Color"
+msgstr ""
+
+msgid "Set color for Menu item"
+msgstr ""
+
+msgid "Menu item height"
+msgstr ""
+
+msgid ""
+"Choose line height for each menu item. This option only use for Header style "
+"01"
+msgstr ""
+
+msgid "Dropdown Menu Setting"
+msgstr ""
+
+msgid "Configuration for submenu"
+msgstr ""
+
+msgid "Dropdown Menu Custom"
+msgstr ""
+
+msgid "In default, dropdown menu will follow \"Submenu Style\" above"
+msgstr ""
+
+msgid "Submenu background"
+msgstr ""
+
+msgid "Set background color for submenu dropdown"
+msgstr ""
+
+msgid "SubMenu item color"
+msgstr ""
+
+msgid "Set color for text in submenu"
+msgstr ""
+
+msgid "Submenu width"
+msgstr ""
+
+msgid "Submenu Border"
+msgstr ""
+
+msgid "Set border bottom attribute for submenu"
+msgstr ""
+
+msgid "SubMenu item padding"
+msgstr ""
+
+msgid "Choose inwards spacing for each submenu item"
+msgstr ""
+
+msgid "unit is \"px\""
+msgstr ""
+
+msgid "Dropdown Menu Align"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Page Title Setting"
+msgstr ""
+
+msgid "Show Page Title"
+msgstr ""
+
+msgid "Choose to show or hide page title"
+msgstr ""
+
+msgid "Page Title background image"
+msgstr ""
+
+msgid "Body background image for page title section"
+msgstr ""
+
+msgid "Page Title overlay background"
+msgstr ""
+
+msgid "Background Parallax"
+msgstr ""
+
+msgid ""
+"To use background parallax effect for Page Title, please set background-"
+"attachment field is \"Fixed\""
+msgstr ""
+
+msgid "Page Title Text Align"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Page Title Height"
+msgstr ""
+
+msgid "Set height for page title session"
+msgstr ""
+
+msgid "The Title"
+msgstr ""
+
+msgid "Show Title"
+msgstr ""
+
+msgid "Choose to show or hide Title (only apply for page)"
+msgstr ""
+
+msgid "Type Page Title"
+msgstr ""
+
+msgid ""
+"Choose \"Level Title\" to show label of the level  if it at page of archive, "
+"taxonomy or page has hierarchical"
+msgstr ""
+
+msgid "Level Title"
+msgstr ""
+
+msgid "Page Title Text"
+msgstr ""
+
+msgid "Config typography for page title text"
+msgstr ""
+
+msgid "Breadcrumb"
+msgstr ""
+
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing."
+msgstr ""
+
+msgid "Show Breadcrumb"
+msgstr ""
+
+msgid "Choose to show or hide breadcrumb"
+msgstr ""
+
+msgid "Breadcrumb Path"
+msgstr ""
+
+msgid "Config typography for breadcrumb title"
+msgstr ""
+
+msgid "Breadcrumb Text"
+msgstr ""
+
+msgid "Sidebar"
+msgstr ""
+
+msgid "Configuration for sidebar"
+msgstr ""
+
+msgid "Default Sidebar"
+msgstr ""
+
+msgid "Default Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display default sidebar"
+msgstr ""
+
+msgid "left"
+msgstr ""
+
+msgid "right"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "You can create new sidebar in Appearance -> %s"
+msgstr ""
+
+msgid "Blog Sidebar"
+msgstr ""
+
+msgid "Blog Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar  in blog single pages."
+msgstr ""
+
+msgid "Department  Sidebar"
+msgstr ""
+
+msgid "Department Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar in department single pages."
+msgstr ""
+
+msgid "Department Sidebar"
+msgstr ""
+
+msgid "Service Sidebar"
+msgstr ""
+
+msgid "Service Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar in service single pages."
+msgstr ""
+
+msgid "Service Detail Sidebar"
+msgstr ""
+
+msgid "Shop Sidebar"
+msgstr ""
+
+msgid "Shop Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar in  product detail pages."
+msgstr ""
+
+msgid "Shop Detail Sidebar"
+msgstr ""
+
+msgid "Footer"
+msgstr ""
+
+msgid "Configuration for footer of site"
+msgstr ""
+
+msgid "Footer section"
+msgstr ""
+
+msgid "Footer Style"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Footer Contact Information"
+msgstr ""
+
+msgid "Contact Information"
+msgstr ""
+
+msgid "Footer Contact Dark background image"
+msgstr ""
+
+msgid "Set background image for footer section"
+msgstr ""
+
+msgid "Footer Contact Dark overlay background"
+msgstr ""
+
+msgid "Set background color for mask layer above footer"
+msgstr ""
+
+msgid "Footer Contact light background image"
+msgstr ""
+
+msgid "Footer Contact Default overlay background"
+msgstr ""
+
+msgid "Footer Contact light overlay background"
+msgstr ""
+
+msgid "Icon Contact Color"
+msgstr ""
+
+msgid "Choose color for icon of this session"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "8-222-333-5454"
+msgstr ""
+
+msgid "Phone Caption"
+msgstr ""
+
+msgid "For emergency case"
+msgstr ""
+
+msgid "Mail"
+msgstr ""
+
+msgid "Mail Caption"
+msgstr ""
+
+msgid "Send Email For Help"
+msgstr ""
+
+msgid "Footer Contact Map"
+msgstr ""
+
+msgid "Contact Map"
+msgstr ""
+
+msgid "Footer Map Style"
+msgstr ""
+
+msgid "Illustration Image"
+msgstr ""
+
+msgid "Choose an image associated with map session"
+msgstr ""
+
+msgid "Map Session Color"
+msgstr ""
+
+msgid "Choose background color for map session"
+msgstr ""
+
+msgid "Map Session Border Color"
+msgstr ""
+
+msgid "Map Session text Color"
+msgstr ""
+
+msgid "Map Latitude"
+msgstr ""
+
+msgid "Please access to %s to get the value"
+msgstr ""
+
+msgid "Map Longitude"
+msgstr ""
+
+msgid "Map Zoom"
+msgstr ""
+
+msgid "Please enter number of map zoom 3-21"
+msgstr ""
+
+msgid "Working Hours Text"
+msgstr ""
+
+msgid "Working Hours"
+msgstr ""
+
+msgid "Please use format: Title / Content.<br>Ex: Mon - Fri / 7:00AM - 9:00PM"
+msgstr ""
+
+msgid "Mon - Fri / 7:00AM - 9:00PM"
+msgstr ""
+
+msgid "Sat / 8:00AM - 8:00PM"
+msgstr ""
+
+msgid "Sun / Closed"
+msgstr ""
+
+msgid "Contact Information Text"
+msgstr ""
+
+msgid "Phone Title"
+msgstr ""
+
+msgid "+1 - 831 - 758 7214"
+msgstr ""
+
+msgid "Email Title"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Address Title"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid ""
+"Enter address that you want display.If you do not enter \"Latitude\" and "
+"\"Longitude\",this address will be used to show map.  "
+msgstr ""
+
+msgid "30 Mortensen Avenue, Salinas, CA 93905 "
+msgstr ""
+
+msgid "Footer Main"
+msgstr ""
+
+msgid "Footer Dark Background Image"
+msgstr ""
+
+msgid "Footer Light background image"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid ""
+"Choose grid layout for footer.<br> Please go on \"Appearance->%1$s\" to set "
+"data for footer"
+msgstr ""
+
+msgid "1 Column & Text Center"
+msgstr ""
+
+msgid "1 Column"
+msgstr ""
+
+msgid "2 Columns"
+msgstr ""
+
+msgid "3 Columns"
+msgstr ""
+
+msgid "4 Columns"
+msgstr ""
+
+msgid "Footer Bottom"
+msgstr ""
+
+msgid "Footer Bottom Style"
+msgstr ""
+
+msgid "Text Information"
+msgstr ""
+
+msgid "Blog Display"
+msgstr ""
+
+msgid "Configuration layout for blog template"
+msgstr ""
+
+msgid "Blog Info"
+msgstr ""
+
+msgid "Choose what information to show below blog content"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Comment number"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Social Sharing Section"
+msgstr ""
+
+msgid "Social network for share"
+msgstr ""
+
+msgid "Choose what social networks to share"
+msgstr ""
+
+msgid "Linkedin"
+msgstr ""
+
+msgid "Related Post"
+msgstr ""
+
+msgid "Show/Hide related post session"
+msgstr ""
+
+msgid "Author Section"
+msgstr ""
+
+msgid "Tag Section"
+msgstr ""
+
+msgid "Category Section"
+msgstr ""
+
+msgid "Comments Section"
+msgstr ""
+
+msgid "Team Setting"
+msgstr ""
+
+msgid "Setting for team detail page"
+msgstr ""
+
+msgid "Show Contact Form"
+msgstr ""
+
+msgid "Shortcode Appointment"
+msgstr ""
+
+msgid "paste shortcode that you want to show on team detail page"
+msgstr ""
+
+msgid "EASY AND FAST"
+msgstr ""
+
+msgid "Make An Appointment"
+msgstr ""
+
+msgid "If you need a doctor for, please fill easy form."
+msgstr ""
+
+msgid "404 Setting"
+msgstr ""
+
+msgid "This page will display options for 404 page"
+msgstr ""
+
+msgid "Illustration image 1"
+msgstr ""
+
+msgid "Illustration image 2"
+msgstr ""
+
+msgid "Main Title"
+msgstr ""
+
+msgid "Page not found"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Please go back to home and try to find out once again."
+msgstr ""
+
+msgid "Back to home text"
+msgstr ""
+
+msgid "Go Home"
+msgstr ""
+
+msgid "Button 02 text"
+msgstr ""
+
+msgid "Get Help"
+msgstr ""
+
+msgid "Button 02 Link(Custom)"
+msgstr ""
+
+msgid "Empty this field if you want to choose link to page"
+msgstr ""
+
+msgid "Button 02 Link(Link To Page)"
+msgstr ""
+
+msgid "Custom Style"
+msgstr ""
+
+msgid "Customize your site by code"
+msgstr ""
+
+msgid "CSS Code"
+msgstr ""
+
+msgid "Paste your CSS code here."
+msgstr ""
+
+msgid "Custom Script"
+msgstr ""
+
+msgid "JS Code"
+msgstr ""
+
+msgid "Paste your JS code here."
+msgstr ""
+
+msgid "Typography"
+msgstr ""
+
+msgid "Body text"
+msgstr ""
+
+msgid "Set font "
+msgstr ""
+
+msgid "Paragraph text"
+msgstr ""
+
+msgid "Links Color Option"
+msgstr ""
+
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+msgid "H1 text"
+msgstr ""
+
+msgid "H2 text"
+msgstr ""
+
+msgid "H3 text"
+msgstr ""
+
+msgid "H4 text"
+msgstr ""
+
+msgid "H5 text"
+msgstr ""
+
+msgid "H6 text"
+msgstr ""
+
+msgid "Theme Information 1"
+msgstr ""
+
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+msgid "Theme Information 2"
+msgstr ""
+
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+msgid "MedicPlus"
+msgstr ""
+
+msgid "MedicPlus Option Panel"
+msgstr ""
+
+msgid "Theme Options"
+msgstr ""
+
+msgid "Thank you for purchased MedicPlus!"
+msgstr ""
+
+msgid "Like us on Facebook"
+msgstr ""
+
+msgid "Follow us on themeforest"
+msgstr ""
+
+msgid "Send us email"
+msgstr ""
+
+msgid "%s Articles"
+msgstr ""
+
+msgid " Comments"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Comments are closed"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Please enter your name."
+msgstr ""
+
+msgid "Your Email"
+msgstr ""
+
+msgid "Please enter your email address."
+msgstr ""
+
+msgid "Please enter a valid email address."
+msgstr ""
+
+msgid "Your Comment"
+msgstr ""
+
+msgid "Please enter comment."
+msgstr ""
+
+msgid "Your Website"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Submit comment "
+msgstr ""
+
+msgid "Leave your comment"
+msgstr ""
+
+msgid "Main Navigation"
+msgstr ""
+
+msgid "Footer Navigation"
+msgstr ""
+
+msgid "404 Navigation"
+msgstr ""
+
+msgid "&copy; 2016 BY SWLABS. ALL RIGHT RESERVE."
+msgstr ""
+
+msgid "Go Back"
+msgstr ""
+
+msgid "Install Required Plugins"
+msgstr ""
+
+msgid "Install Plugins"
+msgstr ""
+
+msgid "Installing Plugin: %s"
+msgstr ""
+
+msgid "Updating Plugin: %s"
+msgstr ""
+
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+msgid "Return to the Dashboard"
+msgstr ""
+
+msgid "Plugin activated successfully."
+msgstr ""
+
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+msgid "Dismiss this notice"
+msgstr ""
+
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+msgid "Update Required"
+msgstr ""
+
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "TGMPA v%s"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Recommended"
+msgstr ""
+
+msgid "WordPress Repository"
+msgstr ""
+
+msgid "External Source"
+msgstr ""
+
+msgid "Pre-Packaged"
+msgstr ""
+
+msgid "Not Installed"
+msgstr ""
+
+msgid "Installed But Not Activated"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Required Update not Available"
+msgstr ""
+
+msgid "Requires Update"
+msgstr ""
+
+msgid "Update recommended"
+msgstr ""
+
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Installed version:"
+msgstr ""
+
+msgid "Minimum required version:"
+msgstr ""
+
+msgid "Available version:"
+msgstr ""
+
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+msgid "Plugin"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Install %2$s"
+msgstr ""
+
+msgid "Update %2$s"
+msgstr ""
+
+msgid "Activate %2$s"
+msgstr ""
+
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+msgid "Plugin activation failed."
+msgstr ""
+
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+msgid "The installation of %1$s failed."
+msgstr ""
+
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+msgid "Show Details"
+msgstr ""
+
+msgid "Hide Details"
+msgstr ""
+
+msgid "All installations and activations have been completed."
+msgstr ""
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+msgid "%1$s installed successfully."
+msgstr ""
+
+msgid "All installations have been completed."
+msgstr ""
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+msgid "Delete image"
+msgstr ""
+
+msgid "Add gallery images"
+msgstr ""
+
+msgid "Gallery Images"
+msgstr ""
+
+msgid "Add to gallery"
+msgstr ""
+
+msgid "Remove  attachment"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Add Media"
+msgstr ""
+
+msgid "Attachments"
+msgstr ""
+
+msgid "Add media"
+msgstr ""
+
+msgid "Error 404"
+msgstr ""
+
+msgid "Posts tagged"
+msgstr ""
+
+msgid "Search results for"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Prev"
+msgstr ""
+
+msgid "Posted by  "
+msgstr ""
+
+msgid "Categories:"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Posted by"
+msgstr ""
+
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "My Account"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Search results"
+msgstr ""
+
+msgid "Share to "
+msgstr ""
+
+msgid "Tags:"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "View more"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "register"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Please provide a valid email address."
+msgstr ""
+
+msgid "An account is already registered with your email address. Please login."
+msgstr ""
+
+msgid "Please enter a valid account username."
+msgstr ""
+
+msgid ""
+"An account is already registered with that username. Please choose another."
+msgstr ""
+
+msgid "Please enter an account username."
+msgstr ""
+
+msgid "Please enter an account password."
+msgstr ""
+
+msgid "ERROR"
+msgstr ""
+
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
+msgstr ""
+
+msgid "Your username and password info"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Pasword"
+msgstr ""
+
+msgid "Name field is required."
+msgstr ""
+
+msgid "Email field is required."
+msgstr ""
+
+msgid "Password field is required."
+msgstr ""
+
+msgid "Please fill out all password fields."
+msgstr ""
+
+msgid "Password is not match."
+msgstr ""
+
+msgid "Email is required."
+msgstr ""
+
+msgid "Password is required."
+msgstr ""
+
+msgid "A user could not be found with this email address."
+msgstr ""
+
+msgid "You are now logged in as <strong>%s</strong>"
+msgstr ""
+
+msgid "--Select Contact Form--"
+msgstr ""
+
+msgid "Requirements & Recommendations"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "MedicPlus Icons"
+msgstr ""
+
+msgid "Changes Log"
+msgstr ""
+
+msgid "Install Demos"
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "Deactivate %2$s"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Version 1.0"
+msgstr ""
+
+msgid "Initital"
+msgstr ""
+
+msgid "Page Title"
+msgstr ""
+
+msgid "Header Shortcode"
+msgstr ""
+
+msgid ""
+"Please use Visual Composer to edit shortcode after that copy and paste here. "
+"Ex: [slzcore_appointment_sc contact_form=\"1718\"]."
+msgstr ""
+
+msgid "Choose Slider"
+msgstr ""
+
+msgid ""
+"Display or not slider in the page.<br/> Default no display slider in the "
+"page. To add new slider, please go to ."
+msgstr ""
+
+msgid "Hide Header"
+msgstr ""
+
+msgid "Show/Hide header."
+msgstr ""
+
+msgid "Body Extra Class"
+msgstr ""
+
+msgid "Add custom class if you want to change style of your site."
+msgstr ""
+
+msgid "Enter content top/bottom padding (px)"
+msgstr ""
+
+msgid "Content Padding <br/> (Top/Bottom)"
+msgstr ""
+
+msgid "Default Setting"
+msgstr ""
+
+msgid ""
+"Using setting of theme options. All below setting will NOT be allowed. "
+"Uncheck to change setting this page."
+msgstr ""
+
+msgid "Setting background in the page."
+msgstr ""
+
+msgid "Transparent"
+msgstr ""
+
+msgid "Upload Image"
+msgstr ""
+
+msgid "Header Sticky"
+msgstr ""
+
+msgid "Enable/Disable fixed header when scroll"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Show/Hide page title in the page"
+msgstr ""
+
+msgid "Background Style"
+msgstr ""
+
+msgid "Setting background of page title in the page."
+msgstr ""
+
+msgid "Insert page title height (px)"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Show/Hide title in page title"
+msgstr ""
+
+msgid ""
+"Choose type default Page Title will be display. Choose \"Post Title\" to "
+"show post title if it at page have post title. Choose \"Level Title\" to "
+"show label of the level  if it at page of archive, taxonomy or page has "
+"hierarchical"
+msgstr ""
+
+msgid "-None-"
+msgstr ""
+
+msgid "Post Title"
+msgstr ""
+
+msgid "Custom Title"
+msgstr ""
+
+msgid "Enter custom title to display in page title."
+msgstr ""
+
+msgid "Title Color"
+msgstr ""
+
+msgid "Set title color in page title."
+msgstr ""
+
+msgid "Show/Hide breadcrumb"
+msgstr ""
+
+msgid "Breadcrumb Path Color"
+msgstr ""
+
+msgid "Set color to breadcrumb in the page."
+msgstr ""
+
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+msgid "Sidebar Layout"
+msgstr ""
+
+msgid "Choose locate to display sidebar in the page."
+msgstr ""
+
+msgid "Sidebar Name"
+msgstr ""
+
+msgid ""
+"Choose sidebar to display in the page. To add new sidebar, please go to "
+msgstr ""
+
+msgid "Footer Section"
+msgstr ""
+
+msgid "Show/Hide footer"
+msgstr ""
+
+msgid "Show/Hide footer main"
+msgstr ""
+
+msgid "Show/Hide footer bottom"
+msgstr ""
+
+msgid "Show/Hide contact information in footer"
+msgstr ""
+
+msgid "Show/Hide contact map in footer"
+msgstr ""
+
+msgid ""
+"These are the plugins we include with MedicPlus.  Currently Slz Core is the "
+"only required plugin that is needed to use MedicPlus. You can activate, "
+"deactivate or update the plugins from this tab."
+msgstr ""
+
+msgid "Active:"
+msgstr ""
+
+msgid "Update Available: Version"
+msgstr ""
+
+msgid "Version %s | %s"
+msgstr ""
+
+msgid "Tested Plugins"
+msgstr ""
+
+msgid ""
+"These are the plugins we tested with MedicPlus and they are compatible with "
+"together. If you want to use these plugins, you can activate, deactivate or "
+"update them in this tab."
+msgstr ""
+
+msgid "Update Available: Version %s"
+msgstr ""
+
+msgid "Recommend"
+msgstr ""
+
+msgid "Uploads folder writable"
+msgstr ""
+
+msgid ""
+"Please set the write permission (755) to your wp-content/uploads folders."
+msgstr ""
+
+msgid "Mbstring Extension"
+msgstr ""
+
+msgid "Please enable the Mbstring extension for PHP on your server."
+msgstr ""
+
+msgid "How to enable the Mbstring extension for PHP on your server"
+msgstr ""
+
+msgid "Read more"
+msgstr ""
+
+msgid "PHP Version"
+msgstr ""
+
+msgid "Currently: "
+msgstr ""
+
+msgid "Currently:"
+msgstr ""
+
+msgid "Recommended: 5.3"
+msgstr ""
+
+msgid "Memory Limit"
+msgstr ""
+
+msgid "Recommended: 256M"
+msgstr ""
+
+msgid "Increasing Memory Limit"
+msgstr ""
+
+msgid "Upload Max Filesize"
+msgstr ""
+
+msgid "Recommended: 32M"
+msgstr ""
+
+msgid "Increasing Upload Max Filesize"
+msgstr ""
+
+msgid "Post Max Size"
+msgstr ""
+
+msgid "Increasing Post Max Size"
+msgstr ""
+
+msgid "Time Limit:"
+msgstr ""
+
+msgid "Recommended: 1800"
+msgstr ""
+
+msgid "Increasing Time Limit"
+msgstr ""
+
+msgid "PHP Max Input Vars:"
+msgstr ""
+
+msgid "Recommended: 6000"
+msgstr ""
+
+msgid "Debug Mode"
+msgstr ""
+
+msgid "Demo Importer"
+msgstr ""
+
+msgid "Welcome to MedicPlus!"
+msgstr ""
+
+msgid ""
+"MedicPlus is now installed and ready to use!  Get ready to build something "
+"beautiful. Please register your purchase to get support and automatic theme "
+"updates. Read below for additional information. We hope you enjoy it!"
+msgstr ""
+
+msgid "A list of appointment"
+msgstr ""
+
+msgid "SLZ: Appointment"
+msgstr ""
+
+msgid "Appointment"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Contact form:"
+msgstr ""
+
+msgid "A list of Categories"
+msgstr ""
+
+msgid "SLZ: Categories"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Title: "
+msgstr ""
+
+msgid "Slz Contact"
+msgstr ""
+
+msgid "SLZ: Contact"
+msgstr ""
+
+msgid "For help selecting a doctor or making an appointment:"
+msgstr ""
+
+msgid "Description: "
+msgstr ""
+
+msgid "Phone number: "
+msgstr ""
+
+msgid "A list of Departments"
+msgstr ""
+
+msgid "SLZ: Department"
+msgstr ""
+
+msgid "Department"
+msgstr ""
+
+msgid "--All Categories--"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Number Post"
+msgstr ""
+
+msgid "Sort By"
+msgstr ""
+
+msgid "Department Categories"
+msgstr ""
+
+msgid "A list of Doctors"
+msgstr ""
+
+msgid "SLZ: Doctor"
+msgstr ""
+
+msgid "Most Visited Doctor"
+msgstr ""
+
+msgid "--All Team Categories--"
+msgstr ""
+
+msgid "Team Categories"
+msgstr ""
+
+msgid "Default Widget Area"
+msgstr ""
+
+msgid "Add widgets here to appear in sidebar of posts and pages"
+msgstr ""
+
+msgid "Footer Widget Area %s"
+msgstr ""
+
+msgid "Add widgets here to appear in footer column %s."
+msgstr ""
+
+msgid "Main Widget Area"
+msgstr ""
+
+msgid "Add widgets here to appear in sidebar pages."
+msgstr ""
+
+msgid "Blog Widget Area"
+msgstr ""
+
+msgid "Add widgets here to appear in sidebar of posts."
+msgstr ""
+
+msgid "MedicPlus Custom Widgets"
+msgstr ""
+
+msgid "Enter Name of the new Widget Area here"
+msgstr ""
+
+msgid "Enter class display on front-end"
+msgstr ""
+
+msgid "Add Widget Area"
+msgstr ""
+
+msgid "A recent posts list."
+msgstr ""
+
+msgid "SLZ: Recent Posts"
+msgstr ""
+
+msgid "Recent Posts"
+msgstr ""
+
+msgid "Display the title"
+msgstr ""
+
+msgid "Display comments count"
+msgstr ""
+
+msgid "Display views count"
+msgstr ""
+
+msgid "Display thumbnail"
+msgstr ""
+
+msgid "A list of services"
+msgstr ""
+
+msgid "SLZ: Services"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Offset post"
+msgstr ""
+
+msgid "Service Categories"
+msgstr ""
+
+msgid "Behance"
+msgstr ""
+
+msgid "Delicious"
+msgstr ""
+
+msgid "Deviantart"
+msgstr ""
+
+msgid "Flickr"
+msgstr ""
+
+msgid "Foursquare"
+msgstr ""
+
+msgid "Lastfm"
+msgstr ""
+
+msgid "Github"
+msgstr ""
+
+msgid "Google+"
+msgstr ""
+
+msgid "Odnoklassniki"
+msgstr ""
+
+msgid "RSS"
+msgstr ""
+
+msgid "Skype"
+msgstr ""
+
+msgid "Soundcloud"
+msgstr ""
+
+msgid "Stumbleupon"
+msgstr ""
+
+msgid "TripAdvisor"
+msgstr ""
+
+msgid "Tumblr"
+msgstr ""
+
+msgid "Vimeo"
+msgstr ""
+
+msgid "VK"
+msgstr ""
+
+msgid "Weibo"
+msgstr ""
+
+msgid "XING"
+msgstr ""
+
+msgid "YouTube"
+msgstr ""
+
+msgid "- Latest -"
+msgstr ""
+
+msgid "A to Z"
+msgstr ""
+
+msgid "Z to A"
+msgstr ""
+
+msgid "Random posts today"
+msgstr ""
+
+msgid "Random posts a week ago"
+msgstr ""
+
+msgid "Random posts a month ago"
+msgstr ""
+
+msgid "Random Posts"
+msgstr ""
+
+msgid "Most Commented"
+msgstr ""
+
+msgid "Dropcaps"
+msgstr ""
+
+msgid "Box"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Regular"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Text Highlighting"
+msgstr ""
+
+msgid "Black censured"
+msgstr ""
+
+msgid "Red marker"
+msgstr ""
+
+msgid "Blue marker"
+msgstr ""
+
+msgid "Green marker"
+msgstr ""
+
+msgid "Yellow  marker"
+msgstr ""
+
+msgid "Pink  marker"
+msgstr ""
+
+msgid "Text Blockquote"
+msgstr ""
+
+msgid "Style 01"
+msgstr ""
+
+msgid "Style 02"
+msgstr ""
+
+msgid "Style 03"
+msgstr ""
+
+msgid "Style 04"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Youtube"
+msgstr ""
+
+msgid "-Background Repeat-"
+msgstr ""
+
+msgid "No Repeat"
+msgstr ""
+
+msgid "Repeat All"
+msgstr ""
+
+msgid "Repeat Horizontally"
+msgstr ""
+
+msgid "Repeat Vertically"
+msgstr ""
+
+msgid "Inherit"
+msgstr ""
+
+msgid "-Background Size-"
+msgstr ""
+
+msgid "Cover"
+msgstr ""
+
+msgid "Contain"
+msgstr ""
+
+msgid "-Background Position-"
+msgstr ""
+
+msgid "Left Top"
+msgstr ""
+
+msgid "Left Center"
+msgstr ""
+
+msgid "Left Bottom"
+msgstr ""
+
+msgid "Center Top"
+msgstr ""
+
+msgid "Center Center"
+msgstr ""
+
+msgid "Center Bottom"
+msgstr ""
+
+msgid "Right Top"
+msgstr ""
+
+msgid "Right Center"
+msgstr ""
+
+msgid "Right Bottom"
+msgstr ""
+
+msgid "-Background Attachment-"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Scroll"
+msgstr ""
+
+msgid "view"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid " ago"
+msgstr ""
+
+msgid "%s (Pending)"
+msgstr ""
+
+msgid "Edit Menu Item"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Navigation Label"
+msgstr ""
+
+msgid "Title Attribute"
+msgstr ""
+
+msgid "Link Target"
+msgstr ""
+
+msgid "Same window or tab"
+msgstr ""
+
+msgid "New window or tab"
+msgstr ""
+
+msgid "CSS Classes (optional)"
+msgstr ""
+
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+msgid "Enter icon for menu"
+msgstr ""
+
+msgid "Ex:fa-crosshairs"
+msgstr ""
+
+msgid "Use as Mega Menu"
+msgstr ""
+
+msgid "Select style for megamenu"
+msgstr ""
+
+msgid "Block"
+msgstr ""
+
+msgid "Tab"
+msgstr ""
+
+msgid "Select column number for megamenu"
+msgstr ""
+
+msgid "Enter title  for mega menu style \"Tab\" "
+msgstr ""
+
+msgid "Select Widget Area"
+msgstr ""
+
+msgid "Original: %s"
+msgstr ""
+
+msgid "This theme requires the following plugin installed or update: %1$s."
+msgid_plural ""
+"This theme requires the following plugins installed or updated: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "This theme recommends the following plugin installed or updated: %1$s."
+msgid_plural ""
+"This theme recommends the following plugins installed or updated: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Search here ..."
+msgstr ""
+
+msgid "We can&rsquo;t find what you&rsquo;re looking for!"
+msgstr ""
+
+msgid "Ready to publish your first post?"
+msgstr ""
+
+msgid "Get started here"
+msgstr ""
+
+msgid "Please try again with different keywords."
+msgstr ""
+
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+msgid "Helpful Links"
+msgstr ""
+
+msgid "Pages:"
+msgstr ""
+
+msgid "Who we are"
+msgstr ""
+
+msgid "View detail"
+msgstr ""
+
+msgid "Posts navigation"
+msgstr ""
+
+msgid "Older posts"
+msgstr ""
+
+msgid "Newer posts"
+msgstr ""
+
+msgid "Post navigation"
+msgstr ""
+
+msgid "Type keyword and hit enter..."
+msgstr ""

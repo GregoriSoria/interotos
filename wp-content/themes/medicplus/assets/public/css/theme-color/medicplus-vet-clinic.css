@@ -1,0 +1,399 @@
+/**
+ * [Table of contents]
+ *
+ * [&. Content / #key]
+ * [Let press Ctrl + f and type of paste the key, then press Enter to search the content ]
+ *
+ * Summary:
+ *
+ *  
+
+
+/*=============================
+ =====   VARIABLE LESS    =====
+ =============================*/
+/*----------  0.1. Color  ----------*/
+a:active,
+a:focus,
+a:hover {
+  color: #ec3460;
+}
+.line,
+.typo-line:after {
+  background-color: #ec3460;
+}
+.btn-wrapper {
+  color: #123;
+}
+.btn-wrapper .btn {
+  background-color: #ec3460;
+  border-color: #ec3460;
+}
+.btn-wrapper .btn:hover {
+  color: #ec3460;
+  background-color: #ffffff;
+}
+.btn-wrapper .btn-transparent {
+  background-color: transparent;
+}
+.btn-wrapper.slz-back-to-top .btn {
+  border-color: #ec3460;
+  color: #ec3460;
+}
+.btn-wrapper.slz-back-to-top:hover .btn {
+  background-color: #ec3460;
+  color: #fff;
+}
+.howwedo .list-features .description {
+  color: #fdfef7;
+}
+.howwedo .howwedo-left-wrapper {
+  padding: 0;
+}
+.howwedo .typo-line .sub-header {
+  color: #0f77ad;
+}
+.howwedo .header ~ .description {
+  color: #51616B;
+}
+.howwedo .description {
+  color: #e7dee8;
+}
+.whatwedo-dermatology {
+  text-align: center;
+}
+.whatwedo-dermatology .services-wrapper {
+  margin-bottom: -10px;
+}
+.whatwedo-dermatology .services-content.style-3 {
+  margin-bottom: 32px;
+}
+.whatwedo-dermatology .services-content.style-3 .btn-for-icon i {
+  color: #ec3460;
+}
+.why-choose-us-wrapper .description {
+  color: #f2e2f4;
+}
+.why-choose-us-wrapper .btn-wrapper .btn-transparent:hover {
+  color: #523855;
+}
+.testimonials.testimonials-style-2 .slider-testimonials-inner {
+  border: 2px solid #f7a9bb;
+  border-top: 0;
+}
+.testimonials.testimonials-style-2 .close-bracket-wrapper {
+  background-color: #ec3460;
+}
+.testimonials.testimonials-style-2 .close-bracket-wrapper i {
+  color: #ffffff;
+}
+.testimonials.testimonials-style-2 .close-bracket-wrapper .line-top {
+  background-color: #f7a9bb;
+}
+.testimonials.testimonials-style-2 .description {
+  color: #fbd7e0;
+}
+.testimonials.testimonials-style-2 .nav-testimonial .nav-testimonial-inner-left,
+.testimonials.testimonials-style-2 .nav-testimonial .nav-testimonial-inner-right {
+  border: 2px solid #ffffff;
+}
+.our-team .team-inner:after {
+  border-color: #ec3460;
+}
+.our-team .team-inner .line-effect:before,
+.our-team .team-inner .line-effect:after {
+  background-color: #ec3460;
+}
+.our-team .team-inner .team-sub-title {
+  color: #ec3460;
+}
+.our-team .team-inner:hover:before {
+  border-bottom-color: #ec3460;
+}
+.our-team .team-inner .team-flipcard .back {
+  background-color: rgba(236, 52, 96, 0.85);
+}
+.fun-fact .progress-container .description-counter {
+  color: #434a54;
+}
+.recent-news-item .recent-news-content:before,
+.recent-news-item .recent-news-content:after {
+  border-color: #ec3460;
+}
+.recent-news-item .recent-news-content .recent-news-title a:hover {
+  color: #ec3460;
+}
+.services-content .btn-for-icon i {
+  color: #ec3460;
+}
+.services-content .btn-for-icon .icon2 {
+  background-color: #ec3460;
+}
+.footer-content:after {
+  background-color: rgba(45, 55, 64, 0.97);
+}
+.doctor-wrapper .doctor-body:before,
+.doctor-wrapper .doctor-body:after {
+  border-color: #ec3460;
+}
+.doctor-wrapper .doctor-sub-title {
+  color: #ec3460;
+}
+.doctor-wrapper .doctor-info i {
+  color: #ec3460;
+}
+.doctor-wrapper .doctor-info .info-inner:hover {
+  color: #07932e;
+}
+.doctor-wrapper .doctor-title:after {
+  border-color: #ec3460;
+}
+.doctor-wrapper .doctor-title:hover {
+  color: #ec3460;
+}
+.search-block .btn-wrapper .view-all {
+  color: #ec3460;
+}
+.doctor-block .contact-wrapper i {
+  color: #ec3460;
+}
+/**
+ * HOME
+ */
+.sc_service .line {
+  background-color: #ec3460;
+}
+.widget-make-appointment .slz-shortcode.sc_appointment .appointment-form {
+  background-color: #ec2f5c;
+  color: #ffffff;
+}
+.widget-make-appointment .make-app-btn {
+  background-color: #ee4b72;
+}
+.slz-shortcode.sc_appointment .appointment-form {
+  background-color: #ec2f5c;
+  color: #ffffff;
+}
+.slz-shortcode.sc_appointment .appointment-form .wpcf7-form-control-wrap input[type="submit"] {
+  background-color: #ec3460;
+  color: #ec3460;
+}
+.slz-shortcode.sc_appointment .appointment-form .wpcf7-form-control-wrap input,
+.slz-shortcode.sc_appointment .appointment-form .wpcf7-form-control-wrap textarea {
+  border-color: #ee4b72;
+}
+.slz-shortcode.sc_appointment .appointment-form input[type="submit"] {
+  color: #ffffff;
+  background-color: #ee4b72;
+  border-color: #ee4b72;
+}
+.slz-shortcode.sc_appointment .appointment-form input[type="submit"]:hover {
+  color: #ec2f5c;
+  border-color: #ee4b72;
+}
+.slz-shortcode.sc_appointment .home-appointment.index-2 .appointment-form .btn-wrapper .btn {
+  background-color: #ee4b72;
+  border-color: #ee4b72;
+  color: #ffffff;
+}
+.slz-shortcode.sc_appointment .home-appointment.index-2 .appointment-form .btn-wrapper .btn:hover {
+  border-color: #ee4b72;
+  color: #ec2f5c;
+}
+.make-app-btn {
+  background-color: #ee4b72;
+}
+/**
+ * APPOINTMENT
+ */
+.appointment-wrapper .list-features i {
+  color: #ec3460;
+}
+.appointment-wrapper .appointment-form .btn-wrapper .btn {
+  border-color: #ec3460;
+  background-color: #ec3460;
+}
+/**
+ * PAGE
+ */
+.department-wrapper .department-inner.text-right .department-body:before,
+.department-wrapper .department-inner.text-right .department-body:after {
+  border-color: #ec3460;
+}
+.department-wrapper .department-inner .department-body:before,
+.department-wrapper .department-inner .department-body:after {
+  border-color: #ec3460;
+}
+.department-wrapper .department-head .head-body a:hover {
+  color: #ec3460;
+}
+.department-wrapper .department-head .head-name:hover {
+  color: #ec3460;
+}
+.department-wrapper .department-head .list-socials .socials-link i {
+  color: #ec3460;
+}
+.department-wrapper .btn-wrapper .btn {
+  background-color: #ec3460;
+  border-color: #ec3460;
+  color: #ffffff;
+}
+.department-wrapper .btn-wrapper .btn:hover {
+  color: #ec3460;
+  background-color: transparent;
+}
+.gallery-wrapper .galleryContainer .bg-overlay {
+  background-color: #ec3460;
+}
+.gallery-wrapper .filter-button-group .btn:after {
+  background-color: #ec3460;
+}
+.gallery-wrapper .btn-wrapper .btn:hover {
+  background-color: #ec3460;
+  border-color: #ec3460;
+}
+/*-----------------------------Service Detail--------------------------*/
+.widget-other-services .howwedoit-title:hover {
+  color: #ec3460;
+}
+.howwedoit-inner:hover:before {
+  border-color: #ec3460;
+}
+.howwedoit-inner .btn-for-icon i.icon1 {
+  color: #ec3460;
+}
+.howwedoit-inner .btn-for-icon i.icon2 {
+  background-color: #ec3460;
+}
+.howwedoit-content .howwedoit-inner:hover:before {
+  border-color: #ec3460;
+}
+.howwedoit-content .btn-for-icon i.icon1 {
+  color: #ec3460;
+}
+.howwedoit-content .btn-for-icon i.icon2 {
+  background-color: #ec3460;
+}
+/*-----------------------------FAQs Page--------------------------*/
+.faq-wrapper .faq-panel .panel-heading.active::before {
+  background-color: #ec3460;
+}
+/*-----------------------------404 Page--------------------------*/
+.page-404-wrapper .btn-wrapper .btn:hover {
+  background-color: #ec3460;
+  border-color: #ec3460;
+}
+.page-404-wrapper .btn-wrapper .btn-transparent {
+  color: #ec3460;
+}
+.pagination-wrapper .pagination .pagi-inner .pagi-link:hover,
+.pagination-wrapper .pagination .pagi-inner .pagi-link:focus {
+  color: #ec3460;
+  border-bottom-color: #ec3460;
+}
+/**
+ * BLOG
+ */
+/*-----------------------------Blog List--------------------------*/
+.recent-post-wrapper .post-list .media-heading a:hover {
+  color: #ec3460;
+}
+.category-list .category-link:hover,
+.category-list .archive-link:hover {
+  color: #ec3460;
+}
+.archive-list .archive-link:hover,
+.archive-list .category-link:hover {
+  color: #ec3460;
+}
+.tag-list .tag-link:hover {
+  color: #ec3460;
+}
+.post-title a:hover {
+  color: #ec3460;
+}
+.audio-thumbnails .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total {
+  background-color: #d91443;
+}
+.audio-thumbnails .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+  background-color: #ffffff;
+}
+.audio-thumbnails .mejs-controls .mejs-time-rail .mejs-time-total {
+  background-color: #ec3460;
+}
+.audio-thumbnails .mejs-controls .mejs-time-rail .mejs-time-loaded {
+  background-color: #d91443;
+}
+.audio-thumbnails .mejs-controls .mejs-time-rail .mejs-time-current {
+  background-color: #ffffff;
+}
+.audio-thumbnails .mejs-container::before {
+  background-color: #ec3460;
+}
+.audio-thumbnails .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+  background-color: #ffffff;
+}
+.post-inner:hover .post-content {
+  border-color: #ec3460;
+}
+.post-inner:hover .post-content:before {
+  background-color: #ec3460;
+}
+.list-meta li a:hover {
+  color: #ec3460;
+}
+.list-meta i .fa-eye,
+.list-meta i .fa-comment {
+  color: #f06385;
+}
+.read-more:hover {
+  color: #ec3460;
+}
+/*-----------------------------Blog Detail--------------------------*/
+.blog-detail-wrapper .comments .comment-content .url:hover,
+.blog-detail-wrapper .comments .comment-content .info:hover {
+  color: #ec3460;
+}
+.blog-detail-wrapper .comments .comment-content .info i.fa-reply {
+  color: #ec3460;
+}
+.blog-detail-wrapper .appointment-form .btn-make-app {
+  background-color: #ec3460;
+  border-color: #ec3460;
+}
+.blog-detail-wrapper .post-single .share .socials-link:hover {
+  color: #ec3460;
+}
+.post-single-content .tag-post-list .post-tag-link:hover {
+  color: #ec3460;
+}
+.post-single-content .panel-default .panel-title a {
+  color: #f06385;
+}
+.post-single-content .panel-default .panel-title a:hover {
+  color: #d91443;
+}
+/*-----------------------------Contact--------------------------*/
+.contact-wrapper .contact-info .btn-for-icon i {
+  color: #ec3460;
+}
+.contact-wrapper .contact-info .btn-for-icon .icon2 {
+  background-color: #ec3460;
+}
+.contact-form-inner .appointment-form .btn-wrapper .btn:hover {
+  border-color: #ec3460;
+}
+/*-----------------------------About Us--------------------------*/
+.testimonials .close-bracket-wrapper i {
+  color: #ec3460;
+}
+.pediatric.whatwehelp .services-item .btn-for-icon i {
+  color: #ec3460;
+}
+.info-footer {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+.info-footer:before,
+.info-footer:after {
+  background-color: rgba(255, 255, 255, 0.1);
+}

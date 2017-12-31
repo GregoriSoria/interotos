@@ -1,0 +1,9 @@
+== Changelog ==
+
+= 1.1 - 11/04/2017 =
+
+assets/public/css/medicplus-layout.css
+assets/public/css/medicplus-woocommerce.css
+assets/public/js/medicplus-main.js
+framework/constants.php
+framework/modules/theme/class-theme-init.php
