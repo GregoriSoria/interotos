@@ -136,7 +136,7 @@ while ( have_posts() ) :
 				<div class="description"><?php echo esc_html( $medicplus_information_member ); ?></div>
 				<div class="row">
 					<?php
-					$medicplus_shortcode = sprintf('[slzcore_team_carousel_sc method="team" team_list="%1$s" column="%2$s"]',
+					$medicplus_shortcode = sprintf('[slzcore_team_carousel_sc method="team" team_list="%1$s" column="%2$s" limit_post="100"]',
 								esc_html( $medicplus_team_list ),
 								$medicplus_column
 							);
