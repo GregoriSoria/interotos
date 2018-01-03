@@ -397,7 +397,7 @@
 		if ($('form.appointment-form')) {
 			$('form.appointment-form input[name=_wpcf7]').before('<input type="hidden" name="_wpcf7_slz_appointment_form" value="1">');
 		}
-		$('.appointment-datepicker').datepicker().on('changeDate', function(e){
+		$('.appointment-datepicker').datepicker({format:"dd/mm/yyyy"}).on('changeDate', function(e){
 			$(this).datepicker('hide');
 			$(this).parent().find('label').addClass('focus');
 		});
