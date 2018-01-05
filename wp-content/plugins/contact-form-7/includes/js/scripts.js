@@ -194,7 +194,7 @@
 		$( '.ajax-loader', $form ).addClass( 'is-active' );
 
 		$( '[placeholder].placeheld', $form ).each( function( i, n ) {
-			$( n ).val( '' );
+			//$( n ).val( '' );
 		} );
 
 		wpcf7.clearResponse( $form );
